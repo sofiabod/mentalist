@@ -1,0 +1,16 @@
+sources/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+eval-runs/
+scratch/
+
+*.egg-info/
+
+.DS_Store
+**/.DS_Store
+runs/
+.sfx/
+.codegraph/
+jobs/
